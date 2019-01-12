@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "Forge": {
+      "name": "Forge",
+      "lastVersionId": "1.7.10-Forge10.13.4.1614-1.7.10"
+    },
+    "Default": {
+      "name": "Default"
+    }
+  },
+  "selectedProfile": "(Default)",
+  "authenticationDatabase": {},
+  "launcherVersion": {
+    "name": "1.6.89-j",
+    "format": 21,
+    "profilesFormat": 1
+  }
+}
